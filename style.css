@@ -1,0 +1,12 @@
+.nome { font-size: 40px; }
+.especialidade { font-size: 12px; }
+.pedro { color: red; }
+.lara { color: green; }
+.sofia { color: blue; }
+
+div { display:inline-block; text-align:center; }
+.conteudo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
